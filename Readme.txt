@@ -14,3 +14,5 @@
 You can always contact me on facebook and linkedin where I am mostly active
 fb --> https://www.facebook.com/profile.php?id=100010544894360
 linkedin --> https://www.linkedin.com/in/alan-neupane-a03231214/
+
+*NOTE*-->I have attached a custom Filesaver.js file which you can freely use for your own projects.
